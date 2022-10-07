@@ -1,5 +1,5 @@
-### Hi there, this is Sonal
+### Hi there, this is Neha
 
-<img src="https://komarev.com/ghpvc/?username=SinalSingh18&style=flat-square" alt="SinalSingh18" /><br>
+<img src="https://komarev.com/ghpvc/?username=Nkeshr&style=flat-square" alt="Nkeshr" /><br>
 
-[![Sonal's github stats](https://github-readme-stats.vercel.app/api?username=SonalSingh18)](https://github.com/SonalSingh18)
+[![Sonal's github stats](https://github-readme-stats.vercel.app/api?username=SonalSingh18)](https://github.com/Nkeshr)
